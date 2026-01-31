@@ -1,0 +1,14 @@
+# Database configuration
+config/database.php
+
+# Uploaded images
+uploads/*
+!uploads/.gitkeep
+
+# Logs and temp files
+*.log
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
